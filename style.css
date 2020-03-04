@@ -227,8 +227,8 @@ body a:hover {
 }
 
 .header-logo img {
-    width: 177px;
-    height: 82px;
+    width: auto;
+    height: auto;
 }
 
 .toggle-holder {
